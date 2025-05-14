@@ -10,6 +10,10 @@ body {
   background-color: #f9f9f9;
 }
 
+.hidden {
+  display: none;
+}
+
 h1,
 h2 {
   font-family: "Playfair Display", serif;
