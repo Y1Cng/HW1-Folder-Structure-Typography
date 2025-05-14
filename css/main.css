@@ -7,7 +7,8 @@ body {
   max-width: 1200px;
   margin: 0 auto;
   padding: 20px;
-  background-color: #f9f9f9;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../images/pexels-juan-salamanca-61135.jpg);
 }
 
 .hidden {
@@ -47,6 +48,7 @@ p {
   font-size: 16px;
   line-height: 1.7;
   color: #444;
+  padding: 20px;
 }
 
 .content-img {
@@ -61,4 +63,5 @@ p {
 
 .grid-con {
   margin-bottom: 40px;
+  background-color: #fff;
 }
