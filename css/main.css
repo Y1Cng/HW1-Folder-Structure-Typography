@@ -1,3 +1,8 @@
+@font-face {
+  font-family: P22 Underground;
+  src: url(../fonts/p22_underground.otf);
+}
+
 body {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
@@ -48,8 +53,9 @@ p {
   margin-bottom: 1.2rem;
   font-size: 16px;
   line-height: 1.7;
-  color: #444;
+  color: #4e6f80;
   padding: 0 20px;
+  font-family: P22 Underground;
 }
 
 .content-img {
